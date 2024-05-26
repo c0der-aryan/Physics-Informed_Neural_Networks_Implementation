@@ -18,7 +18,7 @@
 <h2>Usage</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/pinn-implementation.git
+        <pre><code>git clone https://github.com/c0der-aryan/pinn-implementation.git
 cd pinn-implementation</code></pre>
     </li>
     <li>Run the main script:
