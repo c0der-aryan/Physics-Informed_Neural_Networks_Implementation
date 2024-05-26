@@ -29,8 +29,6 @@ cd pinn-implementation</code></pre>
 <h2>Project Structure</h2>
 <ul>
     <li><code>harmonic-oscillator-using-pinns.ipynb</code>: Main script for training and visualization.</li>
-    <li><code>pinn.py</code>: PINN model definition.</li>
-    <li><code>utils.py</code>: Data generation, loss calculation, and visualization utilities.</li>
 </ul>
 
 <h2>Synthetic Observations</h2>
