@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Physics-Informed Neural Network (PINN)</title>
-</head>
-<body>
-
 <h1>Physics-Informed Neural Network (PINN)</h1>
 
 <p>This repository contains the implementation of a Physics-Informed Neural Network (PINN) following the <a href="https://www.youtube.com/watch?v=G_hIppUWcsc">YouTube tutorial by Kourosh</a>.</p>
@@ -65,6 +56,3 @@ cd pinn-implementation</code></pre>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
-
-</body>
-</html>
